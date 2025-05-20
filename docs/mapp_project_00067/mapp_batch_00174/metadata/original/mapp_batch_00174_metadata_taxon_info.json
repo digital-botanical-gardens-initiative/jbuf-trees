@@ -1,0 +1,2292 @@
+{
+  "results": [
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Pyrus pyraster",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "pyrus pyraster",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Pyrus pyraster",
+            "ott_id": 52112,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Pyrus communis",
+              "Pyrus communis var. pyraster"
+            ],
+            "tax_sources": [
+              "ncbi:356590",
+              "irmng:10190597"
+            ],
+            "unique_name": "Pyrus pyraster"
+          }
+        }
+      ],
+      "name": "pyrus pyraster"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Abies alba",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "abies alba",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Abies alba",
+            "ott_id": 887363,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "? compacta",
+              "Abies alba alba",
+              "Abies alba apennina",
+              "Abies alba pardei",
+              "Abies alba pendula",
+              "Abies alba podolica",
+              "Abies alba pyramidalis",
+              "Abies argentea",
+              "Abies baldensis",
+              "Abies candicans",
+              "Abies chlorocarpa",
+              "Abies duplex",
+              "Abies excelsa",
+              "Abies miniata",
+              "Abies nobilis",
+              "Abies pardei",
+              "Abies pectinata",
+              "Abies picea",
+              "Abies taxifolia",
+              "Abies vulgaris",
+              "Picea excelsa",
+              "Picea pectinata",
+              "Picea pectinata pendula",
+              "Pinus abies",
+              "Pinus abies leioclada",
+              "Pinus abies pectinata",
+              "Pinus baldensis",
+              "Pinus heterophylla",
+              "Pinus lucida",
+              "Pinus pectinata",
+              "Pinus picea"
+            ],
+            "tax_sources": [
+              "ncbi:45372",
+              "gbif:2685484",
+              "irmng:11034791"
+            ],
+            "unique_name": "Abies alba"
+          }
+        }
+      ],
+      "name": "abies alba"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Cercis siliquastrum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "cercis siliquastrum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Cercis siliquastrum",
+            "ott_id": 372385,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Cercis siliquastrum alba",
+              "Siliquastrum orbicularis"
+            ],
+            "tax_sources": [
+              "ncbi:49802",
+              "gbif:5353590",
+              "irmng:11307233"
+            ],
+            "unique_name": "Cercis siliquastrum"
+          }
+        }
+      ],
+      "name": "cercis siliquastrum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Picea abies",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "picea abies",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Picea abies",
+            "ott_id": 517943,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Abies elegans",
+              "Abies excelsa",
+              "Abies excelsa columnaris",
+              "Abies excelsa finedonensis",
+              "Abies excelsa gregoryana",
+              "Abies excelsa inversa",
+              "Abies excelsa pygmaea",
+              "Abies excelsa virgata",
+              "Abies gigantea",
+              "Abies gregoryana",
+              "Abies inverta",
+              "Abies lemoniana",
+              "Abies mucronata",
+              "Picea abies abies",
+              "Picea abies acuminata",
+              "Picea abies argenteospica",
+              "Picea abies columnaris",
+              "Picea abies finedonensis",
+              "Picea abies germanica",
+              "Picea abies gregoryana",
+              "Picea abies inversa",
+              "Picea abies pygmaea",
+              "Picea abies pyramidata",
+              "Picea abies veitchii",
+              "Picea abies virgata",
+              "Picea excelsa",
+              "Picea excelsa alpestris",
+              "Picea excelsa argenteospica",
+              "Picea excelsa compacta",
+              "Picea excelsa cranstonii",
+              "Picea excelsa finedonensis",
+              "Picea excelsa integrisquamis",
+              "Picea excelsa pendula-major",
+              "Picea excelsa pyramidata",
+              "Picea excelsa veitchii",
+              "Picea montana",
+              "Picea velebitica",
+              "Pinus abies L.",
+              "Pinus cinerea",
+              "Pinus orientalis",
+              "Pinus vulgaris"
+            ],
+            "tax_sources": [
+              "ncbi:3329",
+              "gbif:5284884",
+              "irmng:10200408"
+            ],
+            "unique_name": "Picea abies"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Picea abies",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "picea abies",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Picea glauca",
+            "ott_id": 771681,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Picea abies",
+              "Picea albertiana",
+              "Picea canadensis",
+              "Picea glauca aurea",
+              "Picea glauca conica",
+              "Pinus coerulea",
+              "Pinus glauca"
+            ],
+            "tax_sources": [
+              "ncbi:3330",
+              "gbif:5284745",
+              "irmng:10200411"
+            ],
+            "unique_name": "Picea glauca"
+          }
+        }
+      ],
+      "name": "picea abies"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Prunus cerasus",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "prunus cerasus",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Prunus cerasus",
+            "ott_id": 900499,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Cerasus acida",
+              "Cerasus austera",
+              "Cerasus collina",
+              "Cerasus fruticosa",
+              "Cerasus vulgaris",
+              "Prunus acida"
+            ],
+            "tax_sources": [
+              "ncbi:140311",
+              "irmng:10586559"
+            ],
+            "unique_name": "Prunus cerasus"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Prunus cerasus",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "prunus cerasus",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Prunus avium",
+            "ott_id": 162547,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Cerasus acida",
+              "Cerasus austera",
+              "Cerasus avicularis",
+              "Cerasus avium",
+              "Cerasus avium acida",
+              "Cerasus avium albida",
+              "Cerasus avium amara",
+              "Cerasus avium aspleniifolia",
+              "Cerasus avium dulcis",
+              "Cerasus avium duracina",
+              "Cerasus avium erythrocarpa",
+              "Cerasus avium juliana",
+              "Cerasus avium melanocarpa",
+              "Cerasus avium sativa",
+              "Cerasus avium sylvestris",
+              "Cerasus brevipes",
+              "Cerasus caproniana griotta",
+              "Cerasus caproniana montmenrocyana",
+              "Cerasus caproniana sativa",
+              "Cerasus cerasus",
+              "Cerasus collina",
+              "Cerasus communis",
+              "Cerasus conglobata",
+              "Cerasus dulcis",
+              "Cerasus duracina",
+              "Cerasus hortensis",
+              "Cerasus juliana",
+              "Cerasus longipes",
+              "Cerasus marasca",
+              "Cerasus nigra",
+              "Cerasus nigricans",
+              "Cerasus officinarum",
+              "Cerasus peracida",
+              "Cerasus propera",
+              "Cerasus recta",
+              "Cerasus silvestris",
+              "Cerasus varia",
+              "Cerasus vulgaris",
+              "Cerasus vulgaris acida",
+              "Cerasus vulgaris austera",
+              "Cerasus vulgaris frutescens",
+              "Druparia avium",
+              "Druparia cerasus",
+              "Prunus acida",
+              "Prunus avium aspleniifolia",
+              "Prunus avium dulcis",
+              "Prunus avium duracina",
+              "Prunus avium juliana",
+              "Prunus avium microcarpa",
+              "Prunus avium nigricans",
+              "Prunus avium silvestris",
+              "Prunus avium sylvestris",
+              "Prunus caproniana",
+              "Prunus cerasus",
+              "Prunus cerasus acida",
+              "Prunus cerasus actiana",
+              "Prunus cerasus austera",
+              "Prunus cerasus avium",
+              "Prunus cerasus caproniana",
+              "Prunus cerasus cerasus",
+              "Prunus cerasus dulcis",
+              "Prunus cerasus duracina",
+              "Prunus cerasus juliana",
+              "Prunus cerasus marasca",
+              "Prunus cerasus salicifolia",
+              "Prunus cerasus samydoides",
+              "Prunus cerasus semperflorens",
+              "Prunus cerasus umbraculifera",
+              "Prunus duracina",
+              "Prunus iuliana",
+              "Prunus juliana",
+              "Prunus macrophylla",
+              "Prunus marasca",
+              "Prunus nigricans",
+              "Prunus nigricans dulcis",
+              "Prunus recta",
+              "Prunus semperflorens",
+              "Prunus varia",
+              "Prunus varia albida",
+              "Prunus varia rubella",
+              "Prunus vulgaris"
+            ],
+            "tax_sources": [
+              "ncbi:42229",
+              "gbif:3020791",
+              "irmng:11095813",
+              "irmng:10183288",
+              "irmng:10189184",
+              "irmng:10180981",
+              "irmng:10484903",
+              "irmng:11415744",
+              "irmng:10189126",
+              "irmng:10191588",
+              "irmng:10191587",
+              "irmng:10189175",
+              "irmng:10719241"
+            ],
+            "unique_name": "Prunus avium"
+          }
+        }
+      ],
+      "name": "prunus cerasus"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Alnus incana",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "alnus incana",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Alnus incana",
+            "ott_id": 791133,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Alnus alisoviana",
+              "Alnus alnus",
+              "Alnus americana",
+              "Alnus borealis",
+              "Alnus canadensis",
+              "Alnus communis",
+              "Alnus densiflora",
+              "Alnus februaria incana",
+              "Alnus glauca",
+              "Alnus glutinosa incana",
+              "Alnus intermedia",
+              "Alnus kolaensis",
+              "Alnus languinosa",
+              "Alnus lanuginosa",
+              "Alnus lobata",
+              "Alnus minor",
+              "Alnus occidentalis",
+              "Alnus plicata",
+              "Alnus pubescens",
+              "Alnus rugosa",
+              "Alnus tenuifolia",
+              "Alnus tirolensis",
+              "Betula alnus",
+              "Betula alnus incana",
+              "Betula incana",
+              "Betula pinnata",
+              "Betula rugosa",
+              "Betula-Alnus glauca"
+            ],
+            "tax_sources": [
+              "ncbi:3516",
+              "gbif:9148577",
+              "irmng:10690059"
+            ],
+            "unique_name": "Alnus incana"
+          }
+        }
+      ],
+      "name": "alnus incana"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Betula pendula",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "betula pendula",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Betula pendula",
+            "ott_id": 267719,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Betula aetnensis",
+              "Betula alba pendula",
+              "Betula brachylepis",
+              "Betula cajanderi",
+              "Betula cycoviensis",
+              "Betula ellipticifolia",
+              "Betula fontqueri",
+              "Betula gummifera",
+              "Betula hippolyti",
+              "Betula hybrida",
+              "Betula insularis",
+              "Betula kossogolica",
+              "Betula lobulata",
+              "Betula ludmilae",
+              "Betula microlepis",
+              "Betula mongolica",
+              "Betula montana",
+              "Betula oxycoviensis",
+              "Betula oycowiensis",
+              "Betula palmata",
+              "Betula parvibracteata",
+              "Betula pendula purpurea",
+              "Betula platyphylloides",
+              "Betula pseudopendula",
+              "Betula talassica",
+              "Betula tiulinae",
+              "Betula transbaicalensis",
+              "Betula urticifolia",
+              "Betula uschkanensis",
+              "Betula verrucosa",
+              "Betula virgultosa",
+              "Betula vladimirii"
+            ],
+            "tax_sources": [
+              "ncbi:3505",
+              "gbif:5331916",
+              "irmng:10600231"
+            ],
+            "unique_name": "Betula pendula"
+          }
+        }
+      ],
+      "name": "betula pendula"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Pinus nigra",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "pinus nigra",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Pinus nigra",
+            "ott_id": 61776,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [],
+            "tax_sources": [
+              "ncbi:58042",
+              "gbif:5284809",
+              "irmng:10589693"
+            ],
+            "unique_name": "Pinus nigra"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Pinus nigra",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "pinus nigra",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Picea mariana",
+            "ott_id": 363879,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Abies denticulata",
+              "Abies mariana",
+              "Abies nigra",
+              "Abies nigra pumila",
+              "Picea brevifolia",
+              "Picea mariana brevifolia",
+              "Picea mariana mariana",
+              "Picea nigra",
+              "Picea nigra brevifolia",
+              "Pinus abies mariana",
+              "Pinus denticulata",
+              "Pinus mariana",
+              "Pinus nigra"
+            ],
+            "tax_sources": [
+              "ncbi:3335",
+              "gbif:5284802",
+              "irmng:10197201"
+            ],
+            "unique_name": "Picea mariana"
+          }
+        }
+      ],
+      "name": "pinus nigra"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Larix kaempferi",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "larix kaempferi",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Larix kaempferi",
+            "ott_id": 154040,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Abies kaempferi",
+              "Abies leptolepis",
+              "Larix japonica",
+              "Larix kaempferi pendula",
+              "Larix kaempferi rubescens",
+              "Larix leptolepis",
+              "Larix leptolepis louchanensis",
+              "Larix leptolepis murrayana",
+              "Larix leptolepis pendula",
+              "Pinus kaempferi",
+              "Pinus larix",
+              "Pinus leptolepis"
+            ],
+            "tax_sources": [
+              "ncbi:54800",
+              "gbif:2686157",
+              "irmng:10595749"
+            ],
+            "unique_name": "Larix kaempferi"
+          }
+        }
+      ],
+      "name": "larix kaempferi"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Buxus sempervirens",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "buxus sempervirens",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Buxus sempervirens",
+            "ott_id": 1000252,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Buxus angustifolia",
+              "Buxus arborescens",
+              "Buxus argentea",
+              "Buxus aurea",
+              "Buxus caucasica",
+              "Buxus colchica",
+              "Buxus crispa",
+              "Buxus cucullata",
+              "Buxus elegantissima",
+              "Buxus fruticosa",
+              "Buxus handsworthii",
+              "Buxus hyrcana",
+              "Buxus macrophylla",
+              "Buxus marginata",
+              "Buxus mucronata",
+              "Buxus myrtifolia",
+              "Buxus nana",
+              "Buxus rosmarinifolia",
+              "Buxus salicifolia",
+              "Buxus sempervirens angustifolia",
+              "Buxus sempervirens hyrcana",
+              "Buxus sempervirens myrtifolia",
+              "Buxus sempervirens pendula",
+              "Buxus sempervirens prostrata",
+              "Buxus suffruticosa",
+              "Buxus tenuifolia",
+              "Buxus variegata",
+              "Buxus vulgaris"
+            ],
+            "tax_sources": [
+              "ncbi:4002",
+              "gbif:2984671",
+              "irmng:10589055"
+            ],
+            "unique_name": "Buxus sempervirens"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Buxus sempervirens",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "buxus sempervirens",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Buxus microphylla",
+            "ott_id": 1098659,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Buxus obcordata",
+              "Buxus obcordata-variegata",
+              "Buxus ovalifolia",
+              "Buxus rotundifolia",
+              "Buxus sempervirens",
+              "Buxus virens"
+            ],
+            "tax_sources": [
+              "ncbi:153571",
+              "gbif:2984672",
+              "irmng:10206586"
+            ],
+            "unique_name": "Buxus microphylla"
+          }
+        }
+      ],
+      "name": "buxus sempervirens"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Ostrya carpinifolia",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "ostrya carpinifolia",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Ostrya carpinifolia",
+            "ott_id": 389025,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Carpinus italica",
+              "Carpinus ostrya",
+              "Ostrya carpinifolia genuina",
+              "Ostrya italica",
+              "Ostrya italica carpinifolia",
+              "Ostrya ladelchii",
+              "Ostrya ladelcii",
+              "Ostrya virginiana carpinifolia",
+              "Ostrya vulgaris"
+            ],
+            "tax_sources": [
+              "ncbi:176865",
+              "gbif:5332305",
+              "irmng:10245193"
+            ],
+            "unique_name": "Ostrya carpinifolia"
+          }
+        }
+      ],
+      "name": "ostrya carpinifolia"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Picea jezoensis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "picea jezoensis",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Picea jezoensis",
+            "ott_id": 340875,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [],
+            "tax_sources": [
+              "ncbi:67778",
+              "gbif:5284798"
+            ],
+            "unique_name": "Picea jezoensis"
+          }
+        }
+      ],
+      "name": "picea jezoensis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Pinus cembra",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "pinus cembra",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Pinus cembra",
+            "ott_id": 61771,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Apinus cembra",
+              "Pinea cembra",
+              "Pinus cembra communis",
+              "Pinus cembra helvetica",
+              "Pinus montana",
+              "Strobus cembra"
+            ],
+            "tax_sources": [
+              "ncbi:58041",
+              "gbif:5285134",
+              "irmng:10210379"
+            ],
+            "unique_name": "Pinus cembra"
+          }
+        }
+      ],
+      "name": "pinus cembra"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Sequoiadendron giganteum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "sequoiadendron giganteum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Sequoiadendron giganteum",
+            "ott_id": 810380,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Americus gigantea",
+              "Gigantabies wellingtoniana",
+              "Sequoia gigantea",
+              "Sequoia washingtoniana",
+              "Sequoia wellingtonia",
+              "Sequoiadendron giganteum pendulum",
+              "Steinhauera gigantea",
+              "Taxodium giganteum",
+              "Taxodium washingtonianum",
+              "Washingtonia californica",
+              "Wellingtonia gigantea",
+              "Wellingtonia pendula"
+            ],
+            "tax_sources": [
+              "ncbi:99814",
+              "gbif:2684120",
+              "irmng:10453639"
+            ],
+            "unique_name": "Sequoiadendron giganteum"
+          }
+        }
+      ],
+      "name": "sequoiadendron giganteum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Pseudotsuga menziesii",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "pseudotsuga menziesii",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Pseudotsuga menziesii",
+            "ott_id": 1075713,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Abies menziesii",
+              "Abies menziesii Mirb., 1825",
+              "Abies obliqua",
+              "Abies obliquata",
+              "Pseudotsuga douglasii",
+              "Pseudotsuga flahaultii",
+              "Pseudotsuga mucronata",
+              "Pseudotsuga taxifolia",
+              "Tsuga douglasii fastigiata"
+            ],
+            "tax_sources": [
+              "ncbi:3357",
+              "gbif:2685796",
+              "irmng:10591308"
+            ],
+            "unique_name": "Pseudotsuga menziesii"
+          }
+        }
+      ],
+      "name": "pseudotsuga menziesii"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Tsuga canadensis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "tsuga canadensis",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Tsuga canadensis",
+            "ott_id": 117276,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Abies americana",
+              "Abies canadensis",
+              "Abies canadensis gracilis",
+              "Abies curvifolia",
+              "Picea canadensis",
+              "Pinus americana",
+              "Pinus canadensis",
+              "Pinus pendula",
+              "Tsuga americana",
+              "Tsuga canadensis fastigiata",
+              "Tsuga canadensis gracilis"
+            ],
+            "tax_sources": [
+              "ncbi:66173",
+              "gbif:2687182",
+              "irmng:10586135"
+            ],
+            "unique_name": "Tsuga canadensis"
+          }
+        }
+      ],
+      "name": "tsuga canadensis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Cryptomeria japonica",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "cryptomeria japonica",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Cryptomeria japonica",
+            "ott_id": 620749,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Cryptomeria elegans",
+              "Cryptomeria fortunei",
+              "Cryptomeria generalis",
+              "Cryptomeria japonica araucarioides",
+              "Cryptomeria japonica compacta",
+              "Cryptomeria japonica elegans",
+              "Cryptomeria japonica fortunei",
+              "Cryptomeria japonica lobbii",
+              "Cryptomeria japonica pendula",
+              "Cryptomeria japonica pungens",
+              "Cryptomeria japonica radicans",
+              "Cryptomeria japonica sinensis",
+              "Cryptomeria japonica spiralis",
+              "Cryptomeria kawaii",
+              "Cryptomeria lobbiana",
+              "Cryptomeria lobbii",
+              "Cryptomeria mairei",
+              "Cryptomeria nigricans",
+              "Cupressus japonica",
+              "Cupressus mairei",
+              "Schubertia japonica",
+              "Taxodium japonicum"
+            ],
+            "tax_sources": [
+              "ncbi:3369",
+              "gbif:5284237",
+              "irmng:11165901"
+            ],
+            "unique_name": "Cryptomeria japonica"
+          }
+        }
+      ],
+      "name": "cryptomeria japonica"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Eleutherococcus senticosus",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "eleutherococcus senticosus",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Eleutherococcus senticosus",
+            "ott_id": 631492,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Acanthopanax asperatus",
+              "Acanthopanax senticosus",
+              "Acanthopanax senticosus brevistamineus",
+              "Acanthopanax senticosus inermis",
+              "Acanthopanax senticosus subinermis",
+              "Eleutherococcus asperatus",
+              "Eleutherococcus koreanus",
+              "Eleutherococcus senticosus inermis",
+              "Eleutherococcus senticosus subinermis",
+              "Hedera senticosa"
+            ],
+            "tax_sources": [
+              "ncbi:82096",
+              "gbif:3035369",
+              "irmng:11355857"
+            ],
+            "unique_name": "Eleutherococcus senticosus"
+          }
+        }
+      ],
+      "name": "eleutherococcus senticosus"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Pinus mugo",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "pinus mugo",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Pinus mugo",
+            "ott_id": 1069751,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Pinus montana",
+              "Pinus montana prostrasta",
+              "Pinus mughos",
+              "Pinus mugo nana",
+              "Pinus obliqua",
+              "Pinus rubriflora",
+              "Pinus sylvestris mugho"
+            ],
+            "tax_sources": [
+              "ncbi:28528",
+              "gbif:5285385",
+              "irmng:10194223"
+            ],
+            "unique_name": "Pinus mugo"
+          }
+        }
+      ],
+      "name": "pinus mugo"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Picea omorika",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "picea omorika",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Picea omorika",
+            "ott_id": 771684,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Abies omorika",
+              "Pinus omorika"
+            ],
+            "tax_sources": [
+              "ncbi:3336",
+              "gbif:5284950"
+            ],
+            "unique_name": "Picea omorika"
+          }
+        }
+      ],
+      "name": "picea omorika"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Laurus nobilis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "laurus nobilis",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Laurus nobilis",
+            "ott_id": 571537,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Laurus angusta",
+              "Laurus nobilis lanceolata",
+              "Laurus nobilis latifolia",
+              "Laurus nobilis rotundifolia",
+              "Laurus tenuifolia",
+              "Laurus undulata",
+              "Laurus vulgaris"
+            ],
+            "tax_sources": [
+              "ncbi:85223",
+              "gbif:3034015",
+              "irmng:10202432"
+            ],
+            "unique_name": "Laurus nobilis"
+          }
+        }
+      ],
+      "name": "laurus nobilis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Cornus mas",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "cornus mas",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Cornus mas",
+            "ott_id": 148277,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Cornus erythrocarpa",
+              "Cornus flava publ",
+              "Cornus homerica",
+              "Cornus mas alba",
+              "Cornus mas albocarpa",
+              "Cornus mas andrzejowskii",
+              "Cornus mas aurea",
+              "Cornus mas aurea-elegantissima",
+              "Cornus mas conica",
+              "Cornus mas elegantissima",
+              "Cornus mas flava",
+              "Cornus mas luteocarpa",
+              "Cornus mas macrocarpa",
+              "Cornus mas microcarpa",
+              "Cornus mas nana",
+              "Cornus mas oblongifolia",
+              "Cornus mas oxycarpa",
+              "Cornus mas polonica",
+              "Cornus mas pyriformis",
+              "Cornus mas sphaerocarpa",
+              "Cornus mas variegata",
+              "Cornus mas xanthocarpa",
+              "Cornus mascula",
+              "Cornus mascula aurea-elegantissima",
+              "Cornus nudiflora",
+              "Cornus praecox",
+              "Cornus vernalis",
+              "Eukrania mascula",
+              "Macrocarpium mas"
+            ],
+            "tax_sources": [
+              "ncbi:4285",
+              "gbif:3082263",
+              "irmng:10591759"
+            ],
+            "unique_name": "Cornus mas"
+          }
+        }
+      ],
+      "name": "cornus mas"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Juniperus communis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "juniperus communis",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Juniperus communis",
+            "ott_id": 582859,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Juniperus alpina",
+              "Juniperus argaea",
+              "Juniperus canadensis",
+              "Juniperus depressa",
+              "Juniperus echinoformis",
+              "Juniperus hibernica",
+              "Juniperus hispanica",
+              "Juniperus interrupta",
+              "Juniperus nana",
+              "Juniperus oblonga-pendula",
+              "Juniperus oblongopendula",
+              "Juniperus sibirica"
+            ],
+            "tax_sources": [
+              "ncbi:58039",
+              "gbif:2684709",
+              "irmng:11396736"
+            ],
+            "unique_name": "Juniperus communis"
+          }
+        }
+      ],
+      "name": "juniperus communis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Taxus baccata",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "taxus baccata",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Taxus baccata",
+            "ott_id": 684215,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Cephalotaxus tardiva",
+              "Taxus baccata aurea",
+              "Taxus baccata eubaccata",
+              "Taxus baccata fastigiata",
+              "Taxus baccata fastigiata-aurea",
+              "Taxus baccata glauca",
+              "Taxus baccata stricta",
+              "Taxus baccata washingtonii",
+              "Taxus baccifera",
+              "Taxus canadensis washingtonii",
+              "Taxus communis",
+              "Taxus disticha",
+              "Taxus fastigiata",
+              "Taxus hibernica",
+              "Taxus lugubris",
+              "Taxus pectinata",
+              "Taxus procumbens",
+              "Taxus recurvata",
+              "Taxus tardiva",
+              "Taxus virgata",
+              "Taxus vulgaris"
+            ],
+            "tax_sources": [
+              "ncbi:25629",
+              "gbif:5284517",
+              "irmng:10694100"
+            ],
+            "unique_name": "Taxus baccata"
+          }
+        }
+      ],
+      "name": "taxus baccata"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Prunus dulcis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "prunus dulcis",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Prunus dulcis",
+            "ott_id": 731568,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "? amara",
+              "Amygdalus amara",
+              "Amygdalus communis",
+              "Amygdalus communis amara",
+              "Amygdalus communis dulcis",
+              "Amygdalus communis fragilima",
+              "Amygdalus communis fragilis",
+              "Amygdalus communis macrocarpa",
+              "Amygdalus communis microphylla",
+              "Amygdalus communis ossea",
+              "Amygdalus communis spontanea",
+              "Amygdalus communis stocksiana",
+              "Amygdalus decipiens",
+              "Amygdalus dulcis",
+              "Amygdalus elata",
+              "Amygdalus fragilis",
+              "Amygdalus korshinskyi",
+              "Amygdalus ramonensis",
+              "Amygdalus sativa",
+              "Amygdalus stocksiana",
+              "Druparia amygdalus",
+              "Prunus amygdalus",
+              "Prunus amygdalus amara",
+              "Prunus amygdalus dulcis",
+              "Prunus amygdalus fragilis",
+              "Prunus amygdalus macrocarpa",
+              "Prunus amygdalus sativa",
+              "Prunus communis",
+              "Prunus communis amara",
+              "Prunus communis dulcis",
+              "Prunus communis fragilis",
+              "Prunus communis sativa",
+              "Prunus dulcis amara",
+              "Prunus dulcis fragilis",
+              "Prunus dulcis spontanea",
+              "Prunus dulcis var. sativa",
+              "Prunus korshinskyi",
+              "Prunus ramonensis",
+              "Prunus stocksiana"
+            ],
+            "tax_sources": [
+              "ncbi:3755",
+              "gbif:3022502",
+              "irmng:10422622",
+              "irmng:10186258",
+              "irmng:10180980"
+            ],
+            "unique_name": "Prunus dulcis"
+          }
+        }
+      ],
+      "name": "prunus dulcis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Thuja occidentalis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "thuja occidentalis",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Thuja occidentalis",
+            "ott_id": 463720,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Cupressus arborvitae",
+              "Retinispora glaucescens",
+              "Retinospora dubia",
+              "Thuja compacta",
+              "Thuja obtusa",
+              "Thuja occidentalis alba",
+              "Thuja occidentalis fastigiata",
+              "Thuja occidentalis malonyana",
+              "Thuja occidentalis nigra",
+              "Thuja occidentalis pyramidalis",
+              "Thuja occidentslis",
+              "Thuja odorata",
+              "Thuja procera",
+              "Thuja theophrastii",
+              "Thuja vervaeneana"
+            ],
+            "tax_sources": [
+              "ncbi:3317",
+              "gbif:2684178",
+              "irmng:10858537"
+            ],
+            "unique_name": "Thuja occidentalis"
+          }
+        }
+      ],
+      "name": "thuja occidentalis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Frangula purshiana",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "frangula purshiana",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Frangula purshiana",
+            "ott_id": 796228,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "? anonifolia",
+              "Rhamnus purshiana"
+            ],
+            "tax_sources": [
+              "ncbi:55262",
+              "gbif:8286637",
+              "irmng:11324383"
+            ],
+            "unique_name": "Frangula purshiana"
+          }
+        }
+      ],
+      "name": "frangula purshiana"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Abies pinsapo",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "abies pinsapo",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Abies pinsapo",
+            "ott_id": 220887,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [],
+            "tax_sources": [
+              "ncbi:56046",
+              "gbif:2685464"
+            ],
+            "unique_name": "Abies pinsapo"
+          }
+        }
+      ],
+      "name": "abies pinsapo"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Larix decidua",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "larix decidua",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Larix decidua",
+            "ott_id": 693251,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Larix europaea",
+              "Pinus larix"
+            ],
+            "tax_sources": [
+              "ncbi:71402",
+              "gbif:2686212",
+              "irmng:10716064"
+            ],
+            "unique_name": "Larix decidua"
+          }
+        }
+      ],
+      "name": "larix decidua"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Diospyros kaki",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "diospyros kaki",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Diospyros kaki",
+            "ott_id": 352883,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Diospyros amara",
+              "Diospyros argyi",
+              "Diospyros armata sinensis",
+              "Diospyros bertii",
+              "Diospyros chinensis",
+              "Diospyros chinensis publ",
+              "Diospyros costata",
+              "Diospyros kaempferi",
+              "Diospyros kaki aurantium",
+              "Diospyros kaki costata",
+              "Diospyros kaki domestica",
+              "Diospyros kaki elliptica",
+              "Diospyros kaki macrantha",
+              "Diospyros kaki mazelii",
+              "Diospyros kaki sahuti",
+              "Diospyros kaki silvestris",
+              "Diospyros lycopersicon",
+              "Diospyros mazelii",
+              "Diospyros roxburghii",
+              "Diospyros schi-tse",
+              "Diospyros sinensis",
+              "Diospyros sphenophylla",
+              "Diospyros trichocarpa",
+              "Diospyros wieseneri",
+              "Embryopteris kaki"
+            ],
+            "tax_sources": [
+              "ncbi:35925",
+              "gbif:3032984",
+              "irmng:10205417"
+            ],
+            "unique_name": "Diospyros kaki"
+          }
+        }
+      ],
+      "name": "diospyros kaki"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Magnolia grandiflora",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "magnolia grandiflora",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Magnolia grandiflora",
+            "ott_id": 622553,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Magnolia angustifolia",
+              "Magnolia elliptica",
+              "Magnolia exoniensis",
+              "Magnolia ferruginea",
+              "Magnolia foetida",
+              "Magnolia foetida margaretta",
+              "Magnolia foetida parvifolia",
+              "Magnolia galissoniensis",
+              "Magnolia glabra",
+              "Magnolia gloriosa",
+              "Magnolia grandiflora angustifolia",
+              "Magnolia grandiflora elliptica",
+              "Magnolia grandiflora exoniensis",
+              "Magnolia grandiflora ferruginea",
+              "Magnolia grandiflora galissoniensis",
+              "Magnolia grandiflora lanceolata",
+              "Magnolia grandiflora obovata",
+              "Magnolia grandiflora praecox",
+              "Magnolia grandiflora rotundifolia",
+              "Magnolia hartwegii",
+              "Magnolia hartwegii publ",
+              "Magnolia hartwicus",
+              "Magnolia hartwicus publ",
+              "Magnolia lacunosa",
+              "Magnolia lanceolata",
+              "Magnolia longifolia",
+              "Magnolia maxima",
+              "Magnolia microphylla",
+              "Magnolia microphylla publ",
+              "Magnolia obovata",
+              "Magnolia obtusifolia",
+              "Magnolia obtusifolia publ",
+              "Magnolia praecox",
+              "Magnolia pravertiana",
+              "Magnolia rotundifolia",
+              "Magnolia stricta",
+              "Magnolia stricta publ",
+              "Magnolia tardiflora",
+              "Magnolia tardiflora publ",
+              "Magnolia tomentosa",
+              "Magnolia tomentosa publ",
+              "Magnolia umbrella maxima",
+              "Magnolia virginiana foetida",
+              "Magnolia virginiana grisea"
+            ],
+            "tax_sources": [
+              "ncbi:3406",
+              "gbif:9605163",
+              "irmng:10244017",
+              "irmng:10696591"
+            ],
+            "unique_name": "Magnolia grandiflora"
+          }
+        }
+      ],
+      "name": "magnolia grandiflora"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Prunus spinosa",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "prunus spinosa",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Prunus spinosa",
+            "ott_id": 470244,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Druparia spinosa",
+              "Prunus communis spinosa",
+              "Prunus erythrocalyx",
+              "Prunus erythrocalyx rubella",
+              "Prunus foecundissima",
+              "Prunus insititia spinosa",
+              "Prunus lucida",
+              "Prunus oxypyrena",
+              "Prunus rubella",
+              "Prunus spinosa balearica",
+              "Prunus spinosa erythrocalyx",
+              "Prunus spinosa oxypyrena",
+              "Prunus spinosa pubescens",
+              "Prunus spinosa rubella",
+              "Prunus spinosa stenopetala",
+              "Prunus spinosa subcinerea",
+              "Prunus subcylindrica",
+              "Prunus vulgatior stenopetala"
+            ],
+            "tax_sources": [
+              "ncbi:114937",
+              "gbif:3023221",
+              "irmng:10723021",
+              "irmng:10178118"
+            ],
+            "unique_name": "Prunus spinosa"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Prunus spinosa",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "prunus spinosa",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Prunus americana",
+            "ott_id": 67001,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Cerasus americana",
+              "Cerasus canadensis",
+              "Cerasus hyemalis",
+              "Padus canadensis",
+              "Prunus acinaria",
+              "Prunus canadensis",
+              "Prunus coccinea",
+              "Prunus hyemalis",
+              "Prunus mississipi",
+              "Prunus mollis",
+              "Prunus spinosa"
+            ],
+            "tax_sources": [
+              "ncbi:122118",
+              "gbif:3021106",
+              "irmng:11311144",
+              "irmng:10765223",
+              "irmng:10178391",
+              "irmng:10193012",
+              "irmng:10192231"
+            ],
+            "unique_name": "Prunus americana"
+          }
+        }
+      ],
+      "name": "prunus spinosa"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Pinus sylvestris",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "pinus sylvestris",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Pinus sylvestris",
+            "ott_id": 568619,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Picea orientalis nana",
+              "Pinus erzeroomica",
+              "Pinus nigra pygmaea",
+              "Pinus sylvestris catalaunica",
+              "Pinus sylvestris fruticosa",
+              "Pinus sylvestris nana",
+              "Pinus sylvestris pyreneica"
+            ],
+            "tax_sources": [
+              "ncbi:3349",
+              "gbif:5285637",
+              "irmng:10586133"
+            ],
+            "unique_name": "Pinus sylvestris"
+          }
+        }
+      ],
+      "name": "pinus sylvestris"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Prunus armeniaca",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "prunus armeniaca",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Prunus armeniaca",
+            "ott_id": 217632,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Amygdalus armeniaca",
+              "Armeniaca armeniaca",
+              "Armeniaca batavica",
+              "Armeniaca berricoccia",
+              "Armeniaca communis",
+              "Armeniaca cordifolia",
+              "Armeniaca epirotica",
+              "Armeniaca macrocarpa",
+              "Armeniaca malus",
+              "Armeniaca mongametia",
+              "Armeniaca praecox",
+              "Armeniaca tardiflora",
+              "Armeniaca vulgaris",
+              "Armeniaca vulgaris meixianensis",
+              "Armeniaca vulgaris rushanica",
+              "Armeniaca vulgaris var. glabra",
+              "Armeniaca vulgaris var. vulgaris",
+              "Armeniaca vulgaris xiongyueensis",
+              "Prunus armeniaca vulgaris",
+              "Prunus limeixing",
+              "Prunus mira",
+              "Prunus nepalensis",
+              "Prunus tiliifolia",
+              "Prunus xanthocarpos"
+            ],
+            "tax_sources": [
+              "ncbi:36596",
+              "gbif:7818643",
+              "irmng:10188633",
+              "irmng:10177876",
+              "irmng:10177882"
+            ],
+            "unique_name": "Prunus armeniaca"
+          }
+        },
+        {
+          "is_approximate_match": false,
+          "is_synonym": true,
+          "matched_name": "Prunus armeniaca",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "prunus armeniaca",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Prunus salicina",
+            "ott_id": 190311,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Cerasus salicina",
+              "Cerasus triflora",
+              "Prunus armeniaca",
+              "Prunus botan",
+              "Prunus ichangana",
+              "Prunus maru",
+              "Prunus masu",
+              "Prunus salicina columnaris",
+              "Prunus salicina cordata",
+              "Prunus thibetica",
+              "Prunus triflora",
+              "Prunus triflora columnaris"
+            ],
+            "tax_sources": [
+              "ncbi:88123",
+              "gbif:3021120",
+              "irmng:10764683",
+              "irmng:11135874",
+              "irmng:10186497",
+              "irmng:11427656",
+              "irmng:11224618"
+            ],
+            "unique_name": "Prunus salicina"
+          }
+        }
+      ],
+      "name": "prunus armeniaca"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Liquidambar orientalis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "liquidambar orientalis",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Liquidambar orientalis",
+            "ott_id": 519500,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Liquidambar imberbis",
+              "Liquidambar orientalis integriloba"
+            ],
+            "tax_sources": [
+              "ncbi:63360",
+              "gbif:3152825",
+              "irmng:11334489"
+            ],
+            "unique_name": "Liquidambar orientalis"
+          }
+        }
+      ],
+      "name": "liquidambar orientalis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Cercidiphyllum japonicum",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "cercidiphyllum japonicum",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Cercidiphyllum japonicum",
+            "ott_id": 324758,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Cercidiphyllum japonicum pendulum",
+              "Cercidiphyllum japonicum piramidale",
+              "Cercidiphyllum japonicum sinense",
+              "Cercidiphyllum magnificum pendulum",
+              "Cercidiphyllum ovale"
+            ],
+            "tax_sources": [
+              "ncbi:13413",
+              "gbif:8060423",
+              "irmng:10589815"
+            ],
+            "unique_name": "Cercidiphyllum japonicum"
+          }
+        }
+      ],
+      "name": "cercidiphyllum japonicum"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Malus spectabilis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "malus spectabilis",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Malus spectabilis",
+            "ott_id": 969818,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Malus domestica spectabilis",
+              "Malus microcarpa spectabilis",
+              "Pyrus spectabilis",
+              "Pyrus tenorei"
+            ],
+            "tax_sources": [
+              "ncbi:709982",
+              "gbif:3001108",
+              "irmng:10190595",
+              "irmng:10190872",
+              "irmng:10189199"
+            ],
+            "unique_name": "Malus spectabilis"
+          }
+        }
+      ],
+      "name": "malus spectabilis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Prunus persica",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "prunus persica",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Prunus persica",
+            "ott_id": 259054,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "? scleropersica",
+              "Amygdalus laevis",
+              "Amygdalus persica",
+              "Amygdalus persica aganonucipersica",
+              "Amygdalus persica aganopersica",
+              "Amygdalus persica alboplena",
+              "Amygdalus persica camelliiflora",
+              "Amygdalus persica densa",
+              "Amygdalus persica laevis",
+              "Amygdalus persica nectarina",
+              "Amygdalus persica nucipersica",
+              "Amygdalus persica pendula",
+              "Amygdalus persica platycarpa",
+              "Amygdalus persica scleronucipersica",
+              "Amygdalus persica sinensis",
+              "Amygdalus persica stellata",
+              "Amygdalus persica versicolor",
+              "Persica domestica",
+              "Persica laevis",
+              "Persica nucipersica",
+              "Persica pendula",
+              "Persica platycarpa",
+              "Persica vulgaris",
+              "Persica vulgaris aganopersica",
+              "Persica vulgaris compressa",
+              "Persica vulgaris haematocarpa",
+              "Persica vulgaris isolata",
+              "Persica vulgaris laevis",
+              "Persica vulgaris leucocarpa",
+              "Persica vulgaris nectarina",
+              "Persica vulgaris tomentosa",
+              "Persica vulgaris versicolor",
+              "Persica vulgaris xanthocarpa",
+              "Prunus daemonifuga",
+              "Prunus persica aganopersica",
+              "Prunus persica alba",
+              "Prunus persica albescens",
+              "Prunus persica alboplena",
+              "Prunus persica camelliiflora",
+              "Prunus persica compressa",
+              "Prunus persica densa",
+              "Prunus persica domestica",
+              "Prunus persica laevis",
+              "Prunus persica nectarina",
+              "Prunus persica nucipersica",
+              "Prunus persica platycarpa",
+              "Prunus persica rubroplena",
+              "Prunus persica uninensis",
+              "Prunus persica var. densa",
+              "Prunus persica vulgaris",
+              "Prunus platycarpa"
+            ],
+            "tax_sources": [
+              "ncbi:3760",
+              "gbif:8149923",
+              "irmng:10183680"
+            ],
+            "unique_name": "Prunus persica"
+          }
+        }
+      ],
+      "name": "prunus persica"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Metasequoia glyptostroboides",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "metasequoia glyptostroboides",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Metasequoia glyptostroboides",
+            "ott_id": 47954,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Metasequoia glyptostroboides caespitosa",
+              "Metasequoia honshuensis",
+              "Metasequoia neopangaea",
+              "Sequoia glyptostroboides"
+            ],
+            "tax_sources": [
+              "ncbi:3371",
+              "gbif:5284231",
+              "irmng:11065479"
+            ],
+            "unique_name": "Metasequoia glyptostroboides"
+          }
+        }
+      ],
+      "name": "metasequoia glyptostroboides"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Liquidambar formosana",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "liquidambar formosana",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Liquidambar formosana",
+            "ott_id": 1084666,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Liquidambar acerifolia",
+              "Liquidambar edentata",
+              "Liquidambar formosana monticola",
+              "Liquidambar maximowiczii",
+              "Liquidambar rosthornii",
+              "Liquidambar tonkinensis"
+            ],
+            "tax_sources": [
+              "ncbi:63359",
+              "gbif:3702542"
+            ],
+            "unique_name": "Liquidambar formosana"
+          }
+        }
+      ],
+      "name": "liquidambar formosana"
+    },
+    {
+      "matches": [],
+      "name": "sycoparrotia semidecidua"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Tilia cordata",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "tilia cordata",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Tilia cordata",
+            "ott_id": 218598,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Tilia angulata",
+              "Tilia betulifolia",
+              "Tilia bohemica",
+              "Tilia borbasiana",
+              "Tilia bracteolata",
+              "Tilia eriocarpa",
+              "Tilia europaea parvifolia",
+              "Tilia foemina",
+              "Tilia hoffmanniana",
+              "Tilia hollandica",
+              "Tilia intermedia",
+              "Tilia jacquiniana",
+              "Tilia macrophylla",
+              "Tilia microphylla",
+              "Tilia parvifolia",
+              "Tilia polyantha",
+              "Tilia rugosa",
+              "Tilia septemtrionalis",
+              "Tilia silvestris",
+              "Tilia sylvestris",
+              "Tilia tecksiana",
+              "Tilia ulmifolia"
+            ],
+            "tax_sources": [
+              "ncbi:172266",
+              "gbif:3152047",
+              "irmng:11165674"
+            ],
+            "unique_name": "Tilia cordata"
+          }
+        }
+      ],
+      "name": "tilia cordata"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Prunus avium",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "prunus avium",
+          "taxon": {
+            "flags": [
+              "sibling_higher"
+            ],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Prunus avium",
+            "ott_id": 162547,
+            "rank": "species",
+            "source": "ott3.7draft2",
+            "synonyms": [
+              "Cerasus acida",
+              "Cerasus austera",
+              "Cerasus avicularis",
+              "Cerasus avium",
+              "Cerasus avium acida",
+              "Cerasus avium albida",
+              "Cerasus avium amara",
+              "Cerasus avium aspleniifolia",
+              "Cerasus avium dulcis",
+              "Cerasus avium duracina",
+              "Cerasus avium erythrocarpa",
+              "Cerasus avium juliana",
+              "Cerasus avium melanocarpa",
+              "Cerasus avium sativa",
+              "Cerasus avium sylvestris",
+              "Cerasus brevipes",
+              "Cerasus caproniana griotta",
+              "Cerasus caproniana montmenrocyana",
+              "Cerasus caproniana sativa",
+              "Cerasus cerasus",
+              "Cerasus collina",
+              "Cerasus communis",
+              "Cerasus conglobata",
+              "Cerasus dulcis",
+              "Cerasus duracina",
+              "Cerasus hortensis",
+              "Cerasus juliana",
+              "Cerasus longipes",
+              "Cerasus marasca",
+              "Cerasus nigra",
+              "Cerasus nigricans",
+              "Cerasus officinarum",
+              "Cerasus peracida",
+              "Cerasus propera",
+              "Cerasus recta",
+              "Cerasus silvestris",
+              "Cerasus varia",
+              "Cerasus vulgaris",
+              "Cerasus vulgaris acida",
+              "Cerasus vulgaris austera",
+              "Cerasus vulgaris frutescens",
+              "Druparia avium",
+              "Druparia cerasus",
+              "Prunus acida",
+              "Prunus avium aspleniifolia",
+              "Prunus avium dulcis",
+              "Prunus avium duracina",
+              "Prunus avium juliana",
+              "Prunus avium microcarpa",
+              "Prunus avium nigricans",
+              "Prunus avium silvestris",
+              "Prunus avium sylvestris",
+              "Prunus caproniana",
+              "Prunus cerasus",
+              "Prunus cerasus acida",
+              "Prunus cerasus actiana",
+              "Prunus cerasus austera",
+              "Prunus cerasus avium",
+              "Prunus cerasus caproniana",
+              "Prunus cerasus cerasus",
+              "Prunus cerasus dulcis",
+              "Prunus cerasus duracina",
+              "Prunus cerasus juliana",
+              "Prunus cerasus marasca",
+              "Prunus cerasus salicifolia",
+              "Prunus cerasus samydoides",
+              "Prunus cerasus semperflorens",
+              "Prunus cerasus umbraculifera",
+              "Prunus duracina",
+              "Prunus iuliana",
+              "Prunus juliana",
+              "Prunus macrophylla",
+              "Prunus marasca",
+              "Prunus nigricans",
+              "Prunus nigricans dulcis",
+              "Prunus recta",
+              "Prunus semperflorens",
+              "Prunus varia",
+              "Prunus varia albida",
+              "Prunus varia rubella",
+              "Prunus vulgaris"
+            ],
+            "tax_sources": [
+              "ncbi:42229",
+              "gbif:3020791",
+              "irmng:11095813",
+              "irmng:10183288",
+              "irmng:10189184",
+              "irmng:10180981",
+              "irmng:10484903",
+              "irmng:11415744",
+              "irmng:10189126",
+              "irmng:10191588",
+              "irmng:10191587",
+              "irmng:10189175",
+              "irmng:10719241"
+            ],
+            "unique_name": "Prunus avium"
+          }
+        }
+      ],
+      "name": "prunus avium"
+    }
+  ],
+  "unmatched_names": [
+    "sycoparrotia semidecidua"
+  ]
+}

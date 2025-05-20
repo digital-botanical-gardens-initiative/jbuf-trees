@@ -79,7 +79,7 @@ Run the following command to get the taxonomy for the results:
 1. resolve
 
 ```bash
-taxonomical-utils resolve-taxa --input-file docs/mapp_project_00067/mapp_batch_00174/metadata/original/mapp_batch_00174_metadata.tsv --output-file docs/mapp_project_00067/mapp_batch_00174/metadata/original/mapp_batch_00174_metadata_resolved.csv --org-column-header source_taxon
+taxonomical-utils resolve-taxa --input-file docs/mapp_project_00067/mapp_batch_00174/metadata/original/mapp_batch_00174_metadata.tsv --output-file docs/mapp_project_00067/mapp_batch_00174/metadata/original/mapp_batch_00174_metadata_resolved.csv --org-column-header dsp_field_data.taxon_name
 ```
 
 2. retrieve upper taxa lineage
@@ -95,7 +95,7 @@ taxonomical-utils append-wd-id --input-file docs/mapp_project_00067/mapp_batch_0
 ```
 
 ```bash
-taxonomical-utils merge --input-file docs/mapp_project_00067/mapp_batch_00174/metadata/original/mapp_batch_00174_metadata.tsv --resolved-taxa-file docs/mapp_project_00067/mapp_batch_00174/metadata/original/mapp_batch_00174_metadata_resolved.csv --upper-taxa-lineage-file docs/mapp_project_00067/mapp_batch_00174/metadata/original/metadata_upper_taxa_lineage.csv --wd-file docs/mapp_project_00067/mapp_batch_00174/metadata/original/mapp_batch_00174_wd.csv --output-file docs/mapp_project_00067/mapp_batch_00174/metadata/treated/mapp_batch_00174_metadata.tsv --org-column-header source_taxon
+taxonomical-utils merge --input-file docs/mapp_project_00067/mapp_batch_00174/metadata/original/mapp_batch_00174_metadata.tsv --resolved-taxa-file docs/mapp_project_00067/mapp_batch_00174/metadata/original/mapp_batch_00174_metadata_resolved.csv --upper-taxa-lineage-file docs/mapp_project_00067/mapp_batch_00174/metadata/original/metadata_upper_taxa_lineage.csv --wd-file docs/mapp_project_00067/mapp_batch_00174/metadata/original/mapp_batch_00174_wd.csv --output-file docs/mapp_project_00067/mapp_batch_00174/metadata/treated/mapp_batch_00174_metadata.tsv --org-column-header dsp_field_data.taxon_name
 ```
 
 Alternatively you can run all commands at ounce by running the following command:
