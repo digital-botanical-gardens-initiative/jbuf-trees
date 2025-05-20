@@ -1,0 +1,25 @@
+_commit: 0.1.7
+_src_path: gh:mapp-metabolomics-unit/mapp-repo-copier-template
+author: DBGI
+common_filename_pattern: '*202505131015_CVOL_*.mzML'
+email: pierre-marie.allard@unifr.ch
+gap_filling: false
+git_repo_path: /Users/pma/git_repos/COMMONS_Lab/DBGI
+github_username: digital-botanical-gardens-initiative
+gnps_job_id: ''
+ionization_mode: positive
+mapp_batch: mapp_batch_00174
+mapp_batch_description: Untargeted metabolomics of trees from the JBUF - pos
+mapp_project: mapp_project_00067
+noise_level: 2000000.0
+repository_name: jbuf-trees
+target_variable: source_taxon
+recorded_setup: true
+recorded_repository_name: "jbuf-trees"
+recorded_author: "DBGI"
+recorder_email: "pierre-marie.allard@unifr.ch"
+recorded_github_username: "digital-botanical-gardens-initiative"
+recorded_mapp_project: "mapp_project_00067"
+recorded_mapp_batch: "mapp_batch_00174"
+
+
