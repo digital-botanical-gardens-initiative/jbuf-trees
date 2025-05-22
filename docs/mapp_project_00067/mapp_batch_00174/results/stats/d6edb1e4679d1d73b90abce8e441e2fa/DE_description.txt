@@ -1,0 +1,8 @@
+A "DatasetExperiment" object
+----------------------------
+name:          mapp_batch_00174 LCMS metabolomics dataset
+The data has been pareto scaled
+description:   Untargeted metabolomics of trees from the JBUF - pos
+data:          116 rows x 14525 columns
+sample_meta:   116 rows x 174 columns
+variable_meta: 14525 rows x 322 columns
